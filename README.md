@@ -1,11 +1,9 @@
 ### Hi there, I'm Yap Yong Heng 👋 
 
-## I'm a Full Stack Developer!!
 
-- 🔭 I’m interested in full stack web development with modern technologies!
-- 🌱 I’m currently learning everything
-- 🥅 2022 Goals: Learn more about blockchain technologies
-- ⚡ Fun fact: I love to play badminton and computer games
+- 🔭 Im a gopher and still learning other modern technolgies
+- 🥅 2023 Goals: Learn more about Go and Rust
+- ⚡ Fun fact: I love to play badminton
 
 ### Connect with me:
 
