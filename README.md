@@ -8,7 +8,7 @@
 ### Connect with me:
 
 <p>
-    <a href="https://main.dvd2wyzclzu2c.amplifyapp.com/" target="_blank" rel="noopener noreferrer">
+    <a href="https://yonghengyap.netlify.app/" target="_blank" rel="noopener noreferrer">
         <img alt="yyhyap-portfolio" style="width:100px; height:25px; margin-right:2px;" src="https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/yap-yong-heng/" target="_blank" rel="noopener noreferrer">
