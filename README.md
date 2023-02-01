@@ -2,7 +2,7 @@
 
 
 - 🔭 Im a gopher and still learning other modern technolgies
-- 🥅 2023 Goals: Learn more about Go and Rust
+- 🥅 2023 Goals: Learn more about Go, Rust and IoT
 - ⚡ Fun fact: I love to play badminton
 
 ### Connect with me:
